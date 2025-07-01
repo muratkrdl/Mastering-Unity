@@ -3,7 +3,7 @@ using Core;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Player
+namespace GameMechanics.Player
 {
     public class PlayerHealth : MonoBehaviour, IHealth
     {

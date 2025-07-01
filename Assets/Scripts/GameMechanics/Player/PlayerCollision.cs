@@ -1,7 +1,7 @@
 using Core;
 using UnityEngine;
 
-namespace Player
+namespace GameMechanics.Player
 {
     public class PlayerCollision : MonoBehaviour
     {
