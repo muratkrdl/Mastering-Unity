@@ -11,6 +11,7 @@ namespace GameMechanics.Player
         {
             _playerHealth = GetComponent<PlayerHealth>();
         }
+        
         private void OnCollisionEnter(Collision collision)
         {
             if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("EnemyProjectile"))
