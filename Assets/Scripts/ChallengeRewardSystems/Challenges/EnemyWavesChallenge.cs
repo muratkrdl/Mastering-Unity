@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using ChallengeRewardSystems.Reward;
 using UnityEngine;
 
 namespace ChallengeRewardSystems.Challenges
