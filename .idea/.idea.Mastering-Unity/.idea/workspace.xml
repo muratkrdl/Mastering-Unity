@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5678376-6d35-443b-bb14-88e9b4e2efc8" name="Changes" comment="" />
+    <list default="true" id="e5678376-6d35-443b-bb14-88e9b4e2efc8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mastering-Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mastering-Unity/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataHandling/SettingsManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -94,7 +99,8 @@
       <workItem from="1751451857083" duration="1198000" />
       <workItem from="1751485890264" duration="920000" />
       <workItem from="1751519811379" duration="1126000" />
-      <workItem from="1751640607452" duration="2068000" />
+      <workItem from="1751640607452" duration="2775000" />
+      <workItem from="1751698688619" duration="269000" />
     </task>
     <servers />
   </component>
