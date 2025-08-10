@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5678376-6d35-443b-bb14-88e9b4e2efc8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mastering-Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mastering-Unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataHandling/SettingsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAnalytic/GameAnalyticsManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -113,7 +115,7 @@
       <workItem from="1751746402661" duration="1419000" />
       <workItem from="1751828384111" duration="2455000" />
       <workItem from="1752173530849" duration="299000" />
-      <workItem from="1754816942527" duration="1670000" />
+      <workItem from="1754816942527" duration="2257000" />
     </task>
     <servers />
   </component>
